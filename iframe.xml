@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="AI (iframe)" title_url="http://sites.google.com/"
+          description="Include AI web page in your widget panel"
+          thumbnail="https://www.gstatic.com/sites-gadgets/common/images/sites-icon-gadget-thumb.png"
+          screenshot="https://www.gstatic.com/sites-gadgets/common/images/sites-icon-gadget-ss.png"
+          height="800" width="600" author="Google">
+    <Require feature="dynamic-height"/>
+  </ModulePrefs>
+  <Content type="html" view="default,canvas">
+  	<iframe src="https://aurora.energo.lv/?model=claude-3-5-sonnet" height="200" width="300" title="Iframe Example"></iframe>
+  </Content>
+</Module>
