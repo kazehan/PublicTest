@@ -9,7 +9,7 @@
   </ModulePrefs>
   <Content type="html" view="default,canvas">
     <div>=============================== START ========================================================</div>
-  	<iframe src="https://aurora.energo.lv/?model=claude-3-5-sonnet" height="200" width="300" title="Iframe Example"></iframe>
+  	<iframe src="https://aurora.energo.lv/?model=claude-3-5-sonnet"></iframe>
     <div>=============================== END ========================================================</div>
   </Content>
 </Module>
